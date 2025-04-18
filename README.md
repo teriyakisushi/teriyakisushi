@@ -3,6 +3,7 @@
 - 🎓 3rd-year Automation Engineering student [@TJCU](https://www.tjcu.edu.cn/)
 - 🔭 Currently working on AI-powered software and mini tools dev
 - 🌱 Learning backend development with **Golang** & **Python**
+- 🌐 Language: **Mandarin** | Cantonese | Japanese
 ## 🎆 Hobbies:
 - 📚 Mystery novel enthusiast
 - 🎨 Drawing, Poems creation
