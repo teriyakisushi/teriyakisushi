@@ -6,7 +6,7 @@
 ## 🎆 Hobbies:
 - 📚 Mystery novel enthusiast
 - 🎨 Drawing, Poems creation
-- 🦊 Animals & Natrue
+- 🦊 Animals & Nature
 - 🎮 Infinity Nikki (91% outfits completion)
 
 <h2>📊 Github Stats</h2>
