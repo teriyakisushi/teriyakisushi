@@ -1,13 +1,8 @@
 ## 👸 About me
 
-- 🎓 3rd-year Automation Engineering student [@TJCU](https://www.tjcu.edu.cn/)
+- 🎓 3rd-year Automation Engineering student
 - 🌱 Learning backend development with **Golang** & **Python**
 - 🌐 Language: **Mandarin** | English | Cantonese | Japanese
-## 🕹 Hobbies:
-- 📚 Mystery novel enthusiast
-- 🎨 Drawing, Poems creation
-- 🦊 Animals & Nature
-- 🎮 Infinity Nikki (91% outfits completion)
 
 <h2>📊 Github Stats</h2>
 
