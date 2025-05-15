@@ -1,7 +1,7 @@
 ## 👸 About me
 
-- 🎓 3rd-year Automation Engineering student
-- 🌱 Learning backend development with **Golang** & **Python**
+- 🎓 Undergraduate
+- 🌱 Learning **Game Dev(Unity) & Golang**
 - 🌐 Language: **Mandarin** | English | Cantonese | Japanese
 
 <h2>📊 Github Stats</h2>
