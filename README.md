@@ -1,8 +1,3 @@
-## 👸 About me
-
-- 🎓 Undergraduate
-- 🌱 Learning **Game Dev(Unity) & Golang**
-- 🌐 Language: **Mandarin** | English | Cantonese | Japanese
 
 <h2>📊 Github Stats</h2>
 
